@@ -31,7 +31,7 @@ python motivation_app.py
 
 ## 📸 Preview
 
-(will add asap!)
+(will add soon!)
 
 ---
 
