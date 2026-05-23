@@ -30,8 +30,9 @@ python motivation_app.py
 ---
 
 ## 📸 Preview
+its way too simple...gotta make it more cyberpunk giving it more neon city night vibes like valorant...working on it. :P
+<img width="535" height="376" alt="image" src="https://github.com/user-attachments/assets/1ab61997-dceb-4753-83a7-e7d7d1f1e0cb" />
 
-(will add soon!)
 
 ---
 
