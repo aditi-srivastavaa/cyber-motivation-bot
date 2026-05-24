@@ -2,7 +2,7 @@
 
 A futuristic cyberpunk-themed motivation generator built with Python.
 
----
+--
 
 ## ✨ Features
 
